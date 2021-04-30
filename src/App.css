@@ -1,0 +1,31 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+.background
+{
+  background-image: url('components/7.jpg');
+  background-repeat: no-repeat;
+  background-size: auto 100vh 100vw;
+  
+  background-position:center;
+}
+.title
+{
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.775);
+}
+.logo
+{
+  text-decoration: none;
+  color: white;
+}
+.footer
+{
+  color: white;
+  position: absolute;
+  bottom:10px;
+  width:100%;
+ text-align: center;
+}
