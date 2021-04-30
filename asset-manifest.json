@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/calcounter/static/css/main.6a646960.chunk.css",
+    "main.js": "/calcounter/static/js/main.80603c0e.chunk.js",
+    "main.js.map": "/calcounter/static/js/main.80603c0e.chunk.js.map",
+    "runtime-main.js": "/calcounter/static/js/runtime-main.762b8916.js",
+    "runtime-main.js.map": "/calcounter/static/js/runtime-main.762b8916.js.map",
+    "static/css/2.2f2c82fc.chunk.css": "/calcounter/static/css/2.2f2c82fc.chunk.css",
+    "static/js/2.4f8026f4.chunk.js": "/calcounter/static/js/2.4f8026f4.chunk.js",
+    "static/js/2.4f8026f4.chunk.js.map": "/calcounter/static/js/2.4f8026f4.chunk.js.map",
+    "static/js/3.75fd9753.chunk.js": "/calcounter/static/js/3.75fd9753.chunk.js",
+    "static/js/3.75fd9753.chunk.js.map": "/calcounter/static/js/3.75fd9753.chunk.js.map",
+    "index.html": "/calcounter/index.html",
+    "static/css/2.2f2c82fc.chunk.css.map": "/calcounter/static/css/2.2f2c82fc.chunk.css.map",
+    "static/css/main.6a646960.chunk.css.map": "/calcounter/static/css/main.6a646960.chunk.css.map",
+    "static/js/2.4f8026f4.chunk.js.LICENSE.txt": "/calcounter/static/js/2.4f8026f4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/calcounter/static/media/7.debf32dc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.762b8916.js",
+    "static/css/2.2f2c82fc.chunk.css",
+    "static/js/2.4f8026f4.chunk.js",
+    "static/css/main.6a646960.chunk.css",
+    "static/js/main.80603c0e.chunk.js"
+  ]
+}
